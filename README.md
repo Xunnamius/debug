@@ -1,2 +1,5 @@
 # debug
-⚡ A small wrapper library that supercharges the debuggers from the hyper-popular "debug" npm package
+
+This package provides the primitives that undergird the [rejoinder](https://github.com/Xunnamius/rejoinder) project.
+
+(internal multiverse implementation incoming)
